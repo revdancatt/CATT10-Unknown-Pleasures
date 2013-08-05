@@ -1,6 +1,6 @@
 ![Cover Screenshot](https://raw.github.com/revdancatt/CATT10-Unknown-Pleasures/master/img/joy.png)
 
-CATT10-Unknown-Pleasures
+CATT10 Unknown Pleasures
 ========================
 Joy Division Cover in processing.js, code is running here: http://revdancatt.github.com/CATT10-Unknown-Pleasures/
 
